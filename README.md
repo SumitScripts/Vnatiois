@@ -6,5 +6,7 @@ in process
 ```
 
 #### Credits
-- Gui 
-Akash
+- Gui By AkashZcl
+- Scripted By kokpgso
+- Fractions Place By SumitScripts
+
