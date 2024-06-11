@@ -22,6 +22,9 @@ Supports On All Executors -Making For Solara :) -
 ]]--
 
 local GameP = game.PlaceId
+local version = 'Vnatiois Version:- 2.0'
+print('Vnatiois llc :- Made With Akashlcl SumitScripts')
+print(version)
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Vnatiois Loader", -- Required
