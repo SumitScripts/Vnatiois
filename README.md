@@ -7,8 +7,7 @@ in process
 
 #### Credits
 - Gui By AkashZcl
-- Scripted By kokpgso
-- Fractions Place By SumitScripts
+- Scripted and Fractions Place By SumitScripts
 
 #### Note- 
 if you bypass the obf but dont share this...
