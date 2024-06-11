@@ -1,6 +1,6 @@
 # Vnatiois
 Vnatiois Version 2.0
- #### Blade Ball Client
+ #### Client
 ```lua
 in process
 ```
